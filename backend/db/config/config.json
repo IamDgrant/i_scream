@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "i_scream_app",
+    "password": "Backlive95#",
+    "database": "i_scream_app_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "i_scream_app",
+    "password": "Backlive95#",
+    "database": "i_scream_app_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "i_scream_app",
+    "password": "Backlive95#",
+    "database": "i_scream_app_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
